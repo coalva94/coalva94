@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coalva94" alt="coalva94" /></a> </p>
 
-- 🤝 I’m looking for help with **HTML, CSS, Ruby**
-
 - 📫 How to reach me **coalva.94@gmail.com**
 
 - 🌱 I’m currently learning **React, Python, Boostrap**
