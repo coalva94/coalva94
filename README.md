@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A passionate Full Stack developer from Perú</h3>
+<h3 align="center">I am passionate about technology and programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coalva94&label=Profile%20views&color=0e75b6&style=flat" alt="coalva94" /> </p>
 
